@@ -1,0 +1,24 @@
+{
+  "name": "dat-ckan-datastore",
+  "version": "1.0.0",
+  "description": "Import data from a CKAN DataStore API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/dat-ckan-datastore.git"
+  },
+  "keywords": [
+    "ckan",
+    "datastore",
+    "dat"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/dat-ckan-datastore/issues"
+  },
+  "homepage": "https://github.com/finnp/dat-ckan-datastore"
+}
